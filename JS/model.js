@@ -1,4 +1,5 @@
 model = {
+    state: '',
     jobs: [
         PLD,
         WAR,
