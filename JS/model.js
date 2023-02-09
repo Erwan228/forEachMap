@@ -1,10 +1,10 @@
 model = {
     state: '',
     jobs: [
-        PLD,
-        WAR,
-        DRK,
-        GNB,
+        'PLD',
+        'WAR',
+        'DRK',
+        'GNB',
     ],
     about: '',
 
