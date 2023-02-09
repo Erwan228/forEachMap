@@ -1,4 +1,4 @@
-model = {
+let model = {
     state: '',
     jobs: [
         PLD,
