@@ -15,5 +15,11 @@
 <body>
     <div id="scree"></div>
 </body>
+<script>
+    updateView();
+    function updateView() {
+        if (model.state == 'mainView') { updateMainView() };
+    }
+</script>
 
 </html>
