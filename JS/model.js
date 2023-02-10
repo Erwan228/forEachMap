@@ -7,5 +7,11 @@ model = {
         'GNB',
     ],
     about: '',
-
+    Strength: [
+        181,
+        123,
+        886,
+    ],
+    newAee: [],
+    about2: '',
 }
